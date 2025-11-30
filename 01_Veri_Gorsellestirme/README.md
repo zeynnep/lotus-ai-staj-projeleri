@@ -9,6 +9,6 @@ Bu klasör, KNIME ve Python kullanarak oluşturduğum veri görselleştirme çal
 - Pie Chart (KNIME)
 - Box Plot (KNIME)
 - veri_gorsellestirme.ipynb (Python Notebook)
-- Araştırma Dokümanı (PDF / DOCX)
+- Araştırma Dokümanı 
 
 Bu klasörde, veri görselleştirme tekniklerini karşılaştırarak uygun grafik türü seçimi, veri hikayeleştirme ve KNIME workflow tasarımları bulunmaktadır.
